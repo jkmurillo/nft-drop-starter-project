@@ -1,0 +1,19 @@
+{
+    "name": "kinder_surprise",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "Ep3pJQDcxg1k4AcjGsf2dW4W7bNKtDjUBbRvLDQxACyt",
+                "share": 100
+            }
+        ]
+    }
+}
